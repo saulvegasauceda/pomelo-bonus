@@ -2,6 +2,8 @@
 
 I made a simple UI to view the summary of the results with two tables displaying the pending and settled transactions, as well as a banner with the available credit and payable balance. I also created an API connected to a SQL DB keeping track of pending and settled transactions.
 
+![alt text](./front_end_sc.png)
+
 ## Additional functionality
 I included a way for users to "Make Payments" which will randomly generate a `txnId` and initiate a payment. I did not enable for users via the front-end to POST settle or posted transactions since that's not typically how banks run their business.
 
