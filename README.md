@@ -20,4 +20,4 @@ Most of the logic is in `pomelo-py/account.py`. This is where I created a class 
 https://github.com/saulvegasauceda/pomelo-ts
 
 ### Note:
-To run you might have to change the ports for the API endpoints.
+To run you might have to change the ports for the API endpoints and install node packages.
