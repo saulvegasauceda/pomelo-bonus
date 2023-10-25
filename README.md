@@ -13,5 +13,8 @@ In `pomelo-py`:
 In `pomelo-ts`:
     run `npm start` # should open interface
 
-# Thoughts and Misc.
+## Thoughts and Misc.
 Most of the logic is in `pomelo-py/account.py`. This is where I created a class called `Account` that's interacting with the SQL tables and summarizing the data. To expand functionality of my app, I think managing multiple users with different IDs would be a good way to move forward. Furthermore, creating or establishing a logic that determines whether a transaction or payment is settled would make my app more appealing.
+
+# Repo for front-end:
+https://github.com/saulvegasauceda/pomelo-ts
